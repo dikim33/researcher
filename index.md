@@ -8,8 +8,9 @@ layout: default
 
 Hi! My name is DongInn Kim. I am a Ph.D. student at the Computer Science
 Department of Indiana University-Bloomington under the guidance of Prof. L Jean
-Camp. I work for the IU CSI CTF (Catch The Flag) team and I am also working on the
-Open Source Cluster Application Resources (OSCAR) as a core developer. My
+Camp. I work for the IU CSI CTF (Catch The Flag) team and I am also working on
+the Open Source Cluster Application Resources
+([OSCAR](https://oscar-cluster.github.io/oscar/)) as a core developer. My
 research interests include software engineering, clustering computing, and
 systems security.
 
