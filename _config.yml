@@ -10,8 +10,8 @@ sass:
     style: compressed
     sass_dir: _sass
 
-favicon:
-    favicon_location: http://www.iu.edu/favicon.ico
+favicon: yes
+favicon_location: "http://www.iu.edu/favicon.ico"
 
 # Make sure to exclude 'vendor' from the build 
 exclude: [vendor, "Gemfile", "Gemfile.lock"]
