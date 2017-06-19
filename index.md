@@ -48,4 +48,4 @@ Name | What does it do
 ## References
 
 * [L Jean Camp](http://www.ljean.com/): Professor, School of Informatics and Computing, Indiana University
-* IU CSI CTF: Catch The Flag team of Indiana University 
+* IU CSI [CTF](https://en.wikipedia.org/wiki/Capture_the_flag): Catch The Flag team of Indiana University 
