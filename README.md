@@ -1,13 +1,16 @@
 # Researcher
 
-### [Demo Website](http://ankitsultana.com/researcher)
+### [Demo Website](http://homes.soic.indiana.edu/dikim/)
 
 A clean, single column, monospace resume template built for jekyll
 
 ### Installation
 
 Simply fork the repository and edit away.
-
+```bash
+bundle install
+bundle exec jekyll serve
+```
 ### Customization
 
 * You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
