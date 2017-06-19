@@ -4,42 +4,48 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="me3.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! My name is DongInn Kim. I am a Ph.D. student at the Computer Science
+Department of Indiana University-Bloomington under the guidance of Prof. L Jean
+Camp. I work for the IU CSI CTF (Catch The Flag) team and I am also working on the
+Open Source Cluster Application Resources (OSCAR) as a core developer. My
+research interests include software engineering, clustering computing, and
+systems security.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My current research focuses on the reverse engineering for the security of IoT
+devices and building an intelligent dynamic analysis tool on the top of
+existing static/dynamic analysis security tools.
+
+### Current work
+- renovating the security toolbar, which is an extension of Firefox to make the web browsing more secure.
+- work on the "CUTS CertProbe and CertWarehouse" for collecting and compiling the Public key certificates.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. DongInn Kim, Jeffrey M. Squyres, and Andrew Lumsdaine: The Introduction of the OSCAR Database API (ODA) 
+=> [PDF](http://www.crest.iu.edu/publications/prints/2006/kim:oda:oscar06.pdf)
+2. DongInn Kim, Jeffrey M. Squyres, and Andrew Lumsdaine. Revamping the OSCAR database: A Flexible Approach to Cluster Configuration Data Management.
+=> [PDF](http://www.crest.iu.edu/publications/prints/2005/kim05:_revam_oscar.pdf)
 
-## Typography
+## Technical Skills
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+Here is the list of the tools that I am currently learning:
 
-Here is a table
+Name | What does it do
+-----|----------------
+[Radare2](https://github.com/radare/radare2) | Reverse engineering framework
+[Unicorn](http://www.unicorn-engine.org/) | CPU Emulator
+[Capstone](http://www.capstone-engine.org/) | Disassembly framework
+[Keystone](http://www.keystone-engine.org/) | Assembler framework
+[Pwndbg](https://github.com/pwndbg/pwndbg) | GDB plug-in to make debuggin with GDB much easier
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
 
 ---
 
-Here is a blockquote
-
-> To a great mind, nothing is little
-
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* [L Jean Camp](http://www.ljean.com/): Professor, School of Informatics and Computing, Indiana University
+* IU CSI CTF: Catch The Flag team of Indiana University 

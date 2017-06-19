@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [dikim@indiana.edu](mailto:dikim [at] indiana.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 612 N Park Ave
 >
-> London
+> Bloomington, IN 47408
 >
-> United Kingdom
+> United States
 
 ---
 
 ## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+ 
+1. [Linkedin](https://www.linkedin.com/in/donginnkim/)
+2. [Twitter](https://twitter.com/potatoid)
+3. [Github](https://github.com/dikim33)
