@@ -38,7 +38,7 @@ Here is the list of the tools that I am currently learning:
 Name | What does it do
 -----|----------------
 [Radare2](https://github.com/radare/radare2) | Reverse engineering framework
-[Unicorn](http://www.unicorn-engine.org/) | CPU Emulator
+[Unicorn](http://www.unicorn-engine.org/) | CPU emulator
 [Capstone](http://www.capstone-engine.org/) | Disassembly framework
 [Keystone](http://www.keystone-engine.org/) | Assembler framework
 [Pwndbg](https://github.com/pwndbg/pwndbg) | GDB plug-in to make debuggin with GDB much easier
