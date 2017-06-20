@@ -20,7 +20,7 @@ My current research focuses on the reverse engineering for the security of IoT
 devices and building an intelligent dynamic analysis tool on the top of
 existing static/dynamic analysis security tools.
 
-### Current work
+### Current Work
 - renovating the security toolbar, which is an extension of Firefox to make the web browsing more secure.
 - work on the "CUTS CertProbe and CertWarehouse" for collecting and compiling the Public key certificates.
 
