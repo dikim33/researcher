@@ -33,7 +33,7 @@ existing static/dynamic analysis security tools.
 
 1. DongInn Kim, Jeffrey M. Squyres, and Andrew Lumsdaine: *The Introduction of the OSCAR Database API (ODA)*
 => [PDF](http://www.crest.iu.edu/publications/prints/2006/kim:oda:oscar06.pdf)
-2. DongInn Kim, Jeffrey M. Squyres, and Andrew Lumsdaine: *Revamping the OSCAR database: A Flexible Approach to Cluster Configuration Data Management.*
+1. DongInn Kim, Jeffrey M. Squyres, and Andrew Lumsdaine: *Revamping the OSCAR database: A Flexible Approach to Cluster Configuration Data Management.*
 => [PDF](http://www.crest.iu.edu/publications/prints/2005/kim05:_revam_oscar.pdf)
 
 ## Technical Skills
