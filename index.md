@@ -21,8 +21,13 @@ devices and building an intelligent dynamic analysis tool on the top of
 existing static/dynamic analysis security tools.
 
 ### Current Work
-- renovating the security toolbar, which is an extension of Firefox to make web browsing more secure.
-- work on the "CUTS CertProbe and CertWarehouse" for collecting and compiling the Public key certificates.
+- renovating the security toolbar, which is an extension of Firefox to make web
+  browsing more secure.
+- work on the "CUTS CertProbe and CertWarehouse" for collecting and compiling
+  the Public key certificates.
+- [practice](http://iuctf.gitlab.io/notes/) the CTF exercises / problems with
+  some various reverse engineering tools (e.g. radare2, unicorn, capstone,
+  keystone, ...)
 
 ## Publications
 
