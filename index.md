@@ -14,6 +14,8 @@ the Open Source Cluster Application Resources
 research interests include software engineering, clustering computing, and
 systems security.
 
+* IU CSI [CTF](https://en.wikipedia.org/wiki/Capture_the_flag): Catch The Flag team of Indiana University
+
 ## Research Interest
 
 My current research focuses on the reverse engineering for the security of IoT
@@ -24,7 +26,8 @@ existing static/dynamic analysis security tools.
 - renovating the security toolbar, which is an extension of Firefox to make web
   browsing more secure.
 - work on the "CUTS CertProbe and CertWarehouse" for collecting and compiling
-  the Public key certificates.
+  the Public key
+  certificates. => [PDF](https://iu.box.com/s/tcymb04cebttwlik3dojfm06ovibifkq)
 - [practice](http://iuctf.gitlab.io/notes/) the CTF exercises / problems with
   some various reverse engineering tools (e.g. radare2, unicorn, capstone,
   keystone, ...)
@@ -51,7 +54,7 @@ Name | What does it do
 
 ---
 
-## References
+## Research Colleagues
 
 * [L Jean Camp](http://www.ljean.com/): Professor, School of Informatics and Computing, Indiana University
-* IU CSI [CTF](https://en.wikipedia.org/wiki/Capture_the_flag): Catch The Flag team of Indiana University
+* [Andrew Lumsdaine](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=9045): UW-PNNL Distinguished Faculty Fellow and Affiliate Professor of Computer Science, University of Washington
