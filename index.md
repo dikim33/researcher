@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="me3.jpg">
+<img class="profile-picture" src="images/me3.jpg">
 
 Hi! My name is DongInn Kim. I am a Ph.D. student at the Computer Science
 Department of Indiana University-Bloomington under the guidance of Prof. L Jean
@@ -26,7 +26,7 @@ existing static/dynamic analysis security tools.
 
 ## Publications
 
-1. DongInn Kim, Jeffrey M. Squyres, and Andrew Lumsdaine: *The Introduction of the OSCAR Database API (ODA)* 
+1. DongInn Kim, Jeffrey M. Squyres, and Andrew Lumsdaine: *The Introduction of the OSCAR Database API (ODA)*
 => [PDF](http://www.crest.iu.edu/publications/prints/2006/kim:oda:oscar06.pdf)
 2. DongInn Kim, Jeffrey M. Squyres, and Andrew Lumsdaine: *Revamping the OSCAR database: A Flexible Approach to Cluster Configuration Data Management.*
 => [PDF](http://www.crest.iu.edu/publications/prints/2005/kim05:_revam_oscar.pdf)
@@ -38,7 +38,7 @@ Here is the list of the tools that I am currently learning:
 Name | What does it do
 -----|----------------
 [Radare2](https://github.com/radare/radare2) | Reverse engineering framework
-[Unicorn](http://iuctf.gitlab.io/notes/unicorn_blog.html) | CPU emulator ([official website](http://www.unicorn-engine.org/))
+[Unicorn](http://iuctf.gitlab.io/notes/unicorn_blog.html) | CPU emulator ([U](http://www.unicorn-engine.org/))
 [Capstone](http://www.capstone-engine.org/) | Disassembly framework
 [Keystone](http://www.keystone-engine.org/) | Assembler framework
 [Pwndbg](https://github.com/pwndbg/pwndbg) | GDB plug-in to make debugging with GDB much easier
@@ -49,4 +49,4 @@ Name | What does it do
 ## References
 
 * [L Jean Camp](http://www.ljean.com/): Professor, School of Informatics and Computing, Indiana University
-* IU CSI [CTF](https://en.wikipedia.org/wiki/Capture_the_flag): Catch The Flag team of Indiana University 
+* IU CSI [CTF](https://en.wikipedia.org/wiki/Capture_the_flag): Catch The Flag team of Indiana University
