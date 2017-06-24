@@ -28,7 +28,7 @@ existing static/dynamic analysis security tools.
   browsing more secure.
 - work on the "CUTS CertProbe and CertWarehouse" for collecting and compiling
   the Public key
-  certificates. => [PDF](https://iu.box.com/s/tcymb04cebttwlik3dojfm06ovibifkq)
+  certificates. <= [Previous work: [PDF](https://iu.box.com/s/tcymb04cebttwlik3dojfm06ovibifkq)]
 - [practice](http://iuctf.gitlab.io/notes/) the CTF exercises / problems with
   some various reverse engineering tools (e.g. radare2, unicorn, capstone,
   keystone, ...)
