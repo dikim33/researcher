@@ -25,3 +25,4 @@ is_contact: true
 1. [Linkedin](https://www.linkedin.com/in/donginnkim/)
 2. [Twitter](https://twitter.com/potatoid)
 3. [Github](https://github.com/dikim33)
+3. [Gitlab](https://gitlab.com/dikim331)
