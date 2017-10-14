@@ -24,14 +24,20 @@ devices and building an intelligent dynamic analysis tool on the top of
 existing static/dynamic analysis security tools.
 
 ### Current Work
+- detect malicious domains from the ch registry database: planning to apply
+  machine learning
+- binary analysis to investigate any possible penetrations in Intel SGX: working
+  with SGX reading group
+- [practice](http://iuctf.gitlab.io/notes/) the CTF exercises / problems with
+  some various reverse engineering tools (e.g. radare2, unicorn, capstone,
+  keystone, ...)
+
+### Past Work (Summer in 2017)
 - renovating the security toolbar, which is an extension of Firefox to make web
   browsing more secure.
 - work on the "CUTS CertProbe and CertWarehouse" for collecting and compiling
   the Public key
   certificates. <= [Previous work: [PDF](https://iu.box.com/s/tcymb04cebttwlik3dojfm06ovibifkq)]
-- [practice](http://iuctf.gitlab.io/notes/) the CTF exercises / problems with
-  some various reverse engineering tools (e.g. radare2, unicorn, capstone,
-  keystone, ...)
 
 ## Publications
 
