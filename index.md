@@ -50,7 +50,7 @@ existing static/dynamic analysis security tools.
 
 ## Technical Skills
 
-Machine learning (ML) models that I have implmented with R:
+Machine learning (ML) models that I have implmented with [R](https://www.r-project.org/):
 
 Name | What does it do
 -----|----------------
