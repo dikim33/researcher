@@ -50,6 +50,17 @@ existing static/dynamic analysis security tools.
 
 ## Technical Skills
 
+Machine learning (ML) models that I have implmented with R:
+
+Name | What does it do
+-----|----------------
+[K-Means](https://en.wikipedia.org/wiki/K-means_clustering) | Unsupervised, non-parametric ML to classify data with the given K value
+[E-M](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) | Unsupervised, parametric ML to find maximum likelihood or maximum a posteriori
+[Linear Regression](https://en.wikipedia.org/wiki/Linear_regression/) | Supervised, parametric ML to find the linear model between given data sets (X,..., Y)
+[Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression/) | Supervised, parametric ML to find the categorical model between dependent variables
+[KNN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) | Unsupervised, non-parametric ML for classification and regression
+[Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) | Supervised, parametric ML for the probabilistic classifier with the assumption of [IDD](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
+
 Here is the list of the tools that I am currently learning:
 
 Name | What does it do
