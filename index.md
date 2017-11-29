@@ -59,7 +59,7 @@ Name | What does it do
 [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression/) | Supervised, parametric ML to find the linear model between given data sets (X,..., Y)
 [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression/) | Supervised, parametric ML to find the categorical model between dependent variables
 [KNN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) | Unsupervised, non-parametric ML for classification and regression
-[Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) | Semi-supervised, parametric ML for the probabilistic classifier with the assumption of [IDD](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
+[Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) | Semi-supervised, parametric ML for the probabilistic classifier with the assumption of [IID](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
 
 Here is the list of the tools that I am currently learning:
 
