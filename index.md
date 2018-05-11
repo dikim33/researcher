@@ -24,14 +24,20 @@ devices and building an intelligent dynamic analysis tool on the top of
 existing static/dynamic analysis security tools.
 
 ### Current Work
+- detect malicious domains from the ch registry database: planning to apply
+  machine learning
+- binary analysis to investigate any possible penetrations in Intel SGX: working
+  with SGX reading group
+- [practice](http://iuctf.gitlab.io/notes/) the CTF exercises / problems with
+  some various reverse engineering tools (e.g. radare2, unicorn, capstone,
+  keystone, ...)
+
+### Past Work (Summer in 2017)
 - renovating the security toolbar, which is an extension of Firefox to make web
   browsing more secure.
 - work on the "CUTS CertProbe and CertWarehouse" for collecting and compiling
   the Public key
   certificates. <= [Previous work: [PDF](https://iu.box.com/s/tcymb04cebttwlik3dojfm06ovibifkq)]
-- [practice](http://iuctf.gitlab.io/notes/) the CTF exercises / problems with
-  some various reverse engineering tools (e.g. radare2, unicorn, capstone,
-  keystone, ...)
 
 ## Publications
 
@@ -43,6 +49,17 @@ existing static/dynamic analysis security tools.
    [PDF](http://www.crest.iu.edu/publications/prints/2005/kim05:_revam_oscar.pdf)
 
 ## Technical Skills
+
+Machine learning (ML) models that I have implmented with [R](https://www.r-project.org/):
+
+Name | What does it do
+-----|----------------
+[K-Means](https://en.wikipedia.org/wiki/K-means_clustering) | Unsupervised, non-parametric ML to classify data with the given K value
+[E-M](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) | Unsupervised, parametric ML to find maximum likelihood or maximum a posteriori
+[Linear Regression](https://en.wikipedia.org/wiki/Linear_regression/) | Supervised, parametric ML to find the linear model between given data sets (X,..., Y)
+[Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression/) | Supervised, parametric ML to find the categorical model between dependent variables
+[KNN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) | Unsupervised, non-parametric ML for classification and regression
+[Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) | Semi-supervised, parametric ML for the probabilistic classifier with the assumption of [IID](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
 
 Here is the list of the tools that I am currently learning:
 
