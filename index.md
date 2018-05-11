@@ -8,13 +8,13 @@ layout: default
 
 Hi! My name is DongInn Kim. I am a Ph.D. student at the Computer Science
 Department of Indiana University-Bloomington under the guidance of Prof. L Jean
-Camp. I work for the IU CSI CTF (Catch The Flag) team and I am also working on
+Camp. I work for the IU CSI CTF (Capture The Flag) team and I am also working on
 the Open Source Cluster Application Resources
 ([OSCAR](https://oscar-cluster.github.io/oscar/)) as a core developer. My
 research interests include software engineering, clustering computing, and
 systems security.
 
-* IU CSI [CTF](https://en.wikipedia.org/wiki/Capture_the_flag): Catch The Flag
+* IU CSI [CTF](https://en.wikipedia.org/wiki/Capture_the_flag): Capture The Flag
   team of Indiana University
 
 ## Research Interest
@@ -48,6 +48,8 @@ Here is the list of the tools that I am currently learning:
 
 Name | What does it do
 -----|----------------
+[Frida](https://www.frida.re/) | Dynamic instrumentation toolkit for the binary analysis
+[Scapy](https://scapy.net/) | Python version of tshark and more
 [Radare2](https://github.com/radare/radare2) | Reverse engineering framework
 [Unicorn](http://iuctf.gitlab.io/notes/unicorn_blog.html) | CPU emulator ([U](http://www.unicorn-engine.org/))
 [Capstone](http://www.capstone-engine.org/) | Disassembly framework
