@@ -24,7 +24,7 @@ devices and building an intelligent dynamic analysis tool on the top of
 existing static/dynamic analysis security tools.
 
 ### Current Work
-- detect malicious domains from the ch registry database: planning to apply
+- detect malicious domains from the CH registry database: planning to apply
   machine learning
 - binary analysis to investigate any possible penetrations in Intel SGX: working
   with SGX reading group
