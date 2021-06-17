@@ -6,9 +6,8 @@ layout: default
 
 <img class="profile-picture" src="images/me3.jpg">
 
-Hi! My name is DongInn Kim. I am a Ph.D. student at the Computer Science
-Department of Indiana University-Bloomington under the guidance of Prof. L Jean
-Camp. I work for the IU CSI CTF (Capture The Flag) team and I am also working on
+Hi! My name is DongInn Kim. I am a PhD candidate in Computer Science at Indiana University. My current research focuses on the reverse engineering for the security of IoT devices and building an intelligent dynamic analysis tool on the top of existing static/dynamic analysis security tools. My PhD thesis under the supervision of Prof. Jean Camp is based on developing an intrusion detection system by fingerprinting the accessing edge services and IoT devices with machine learning processes of the collected features.
+I work for the IU CSI CTF (Capture The Flag) team and I am also working on
 the Open Source Cluster Application Resources
 ([OSCAR](https://oscar-cluster.github.io/oscar/)) as a core developer. My
 research interests include software engineering, clustering computing, and
@@ -24,6 +23,10 @@ devices and building an intelligent dynamic analysis tool on the top of
 existing static/dynamic analysis security tools.
 
 ### Current Work
+- work on the SCGSR Awards in PNNL for the Summer intern: the proposed project is to develop a system to detect the BGP hijacking in the IoT environment.
+- mentor an REU student, Eric Swiler for the project of the SSL certification database
+
+### Past Work 
 - detect malicious domains from the CH registry database: planning to apply
   machine learning
 - binary analysis to investigate any possible penetrations in Intel SGX: working
@@ -31,8 +34,6 @@ existing static/dynamic analysis security tools.
 - [practice](http://iuctf.gitlab.io/notes/) the CTF exercises / problems with
   some various reverse engineering tools (e.g. radare2, unicorn, capstone,
   keystone, ...)
-
-### Past Work (Summer in 2017)
 - renovating the security toolbar, which is an extension of Firefox to make web
   browsing more secure.
 - work on the "CUTS CertProbe and CertWarehouse" for collecting and compiling
@@ -41,6 +42,16 @@ existing static/dynamic analysis security tools.
 
 ## Publications
 
+1. Vafa Andalibi, Jayati Dev, DongInn Kim, Eliot Lear, and Jean Camp. *Making Access Control Easy in IoT.* In IFIP International Symposium on Human Aspects of Information Security & Assurance, June 2021.
+1. Vafa Andalibi, Eliot Lear, DongInn Kim, and Jean Camp. *On the Analysis of MUD-Files' Interactions, Conflicts, and Configuration Requirements Before Deployment.* In 5th EAI International Conference on Safety and Security in Internet of Things, SaSeIoT, May 2021. Springer.
+1. Shakthidhar Gopavaram, Jayati Dev, Marthie Grobler, DongInn Kim, Sanchari Das, and L Jean Camp. *Cross-National Study on Phishing Resilience.* In Proceedings of the Workshop on Usable Security and Privacy (USEC), May 2021. =>
+   [PDF](https://www.ndss-symposium.org/wp-content/uploads/usec2021_23017_paper.pdf)
+1. DongInn Kim, Vafa Andalibi, and L Jean Camp. *Protecting IoT Devices through Localized Detection of BGP Hijacks for Individual Things.* In SafeThings 2021, Oakland, May 2021. IEEE Workshop on the Internet of Safe Things. =>
+   [PDF](http://www.usablesecurity.net/projects/IoT/papers/BGP_Hijacking_detection_via_Block_Pi.pdf)
+1. DongInn Kim, Vafa Andalibi, and L Jean Camp. *Fingerprinting Edge and Cloud Services in IoT.* In Systematic Approaches to Digital Forensic Engineering, City University of New York (CUNY), New York City, May 2020. IEEE Computer Society. =>
+   [PDF](http://www.usablesecurity.net/projects/IoT/papers/Fingerprinting_IoT_Final.pdf)
+1. Vafa Andalibi, DongInn Kim, and L. Jean Camp. *Throwing MUD into the FOG: Defending IoT and Fog by expanding MUD to Fog network.* In 2nd USENIX Workshop on Hot Topics in Edge Computing (HotEdge 19), Renton, WA, July 2019. USENIX Association. =>
+   [PDF](https://www.usenix.org/conference/hotedge19/presentation/andalibi)
 1. DongInn Kim, Jeffrey M. Squyres, and Andrew Lumsdaine: *The Introduction of
    the OSCAR Database API (ODA)* =>
    [PDF](http://www.crest.iu.edu/publications/prints/2006/kim:oda:oscar06.pdf)
